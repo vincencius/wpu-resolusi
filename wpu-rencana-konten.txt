@@ -2,3 +2,5 @@ RENCANA KONTEN WPU
 - Js
 - PHP
 - Interviwq
+- lalal
+- yeyeye
